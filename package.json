@@ -1,0 +1,23 @@
+{
+  "name": "twitch_streams",
+  "version": "1.0.0",
+  "description": "An app that tracks which channels are currently streaming on twitch",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytongentry/twitch_streams.git"
+  },
+  "keywords": [
+    "twitch",
+    "stream"
+  ],
+  "author": "Clayton Gentry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytongentry/twitch_streams/issues"
+  },
+  "homepage": "https://github.com/claytongentry/twitch_streams#readme"
+}
